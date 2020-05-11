@@ -1,0 +1,11 @@
+profile = compact
+break-collection-expressions = fit-or-vertical
+break-infix = fit-or-vertical
+break-struct = force
+cases-exp-indent = 2
+field-space = loose
+if-then-else = keyword-first
+indicate-multiline-delimiters = no
+let-and = sparse
+sequence-style = terminator
+type-decl = sparse
